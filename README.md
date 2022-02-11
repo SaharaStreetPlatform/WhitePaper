@@ -1,6 +1,6 @@
 # WhitePaper
 
-For a more detailed explanation, please check out the docx file in this repository.
+For a more detailed explanation, please check out the docx file (White Paper 02.09.22.docx) included in this repository.
 
  
 How Blockchain Technology is Changing Real Estate                                                                                                                                       January 11, 2022
